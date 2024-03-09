@@ -1,2 +1,2 @@
 # boykot
-![boykot](http:/boykot.PNG)
+![boykot](boykot.PNG)
