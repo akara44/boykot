@@ -1,5 +1,5 @@
 # boykot
 
-# Veritabanındaki ürünler herhangi bir amaç için referans alınıp kaynak gösterilmemelidir.Ürünler kaynaksız bir şekilde veritabanına eklendi.
+# Products in the database should not be referenced and cited for any purpose. Products have been added to the database without reference.
 ![boykot](boykot.PNG)
 
